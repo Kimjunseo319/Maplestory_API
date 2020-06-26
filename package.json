@@ -1,0 +1,10 @@
+{
+  "name": "Maplestory_API",
+  "version": "1.0.0",
+  "description": "Unoffical Maplestory Library",
+  "main": "src/index.js",
+  "repository": "https://github.com/Kimjunseo319/Maplestory_API.git",
+  "author": "Kimjunseo319 <kitoj0319@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
