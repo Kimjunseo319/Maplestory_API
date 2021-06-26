@@ -6,5 +6,8 @@
   "repository": "https://github.com/Kimjunseo319/Maplestory_API.git",
   "author": "Kimjunseo319 <kitoj0319@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
 }
